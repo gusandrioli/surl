@@ -1,4 +1,4 @@
-# URL Shortner using Redis written in Go
+# URL Shortener using Redis written in Go
 
 ## Running Locally
 - Service URL: `http://localhost:5564`
